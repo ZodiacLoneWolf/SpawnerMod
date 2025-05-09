@@ -36,10 +36,10 @@ Version **1.5** introduces several functional improvements and usability fixes.
 ## Known Issues
 
 - **World Leak on Exit Game**  
-    *Exiting the game causes a **UE crash** due to an unresolved **World leak**.
-    *This cannot be resolved currently due to UE4SS and engine limitations.
+    * Exiting the game causes a **UE crash** due to an unresolved **World leak**.
+    * This cannot be resolved currently due to UE4SS and engine limitations.
 - **DELETE Key Non-Responsive Sometimes**  
-    *Occasionally requires pressing **DELETE twice** after spawning to reopen the menu.  This does not affect functionality but is caused by sequence timing.
+    * Occasionally requires pressing **DELETE twice** after spawning to reopen the menu.  This does not affect functionality but is caused by sequence timing.
 - **Spawner Always Closes After Spawning One Item**  
     * _This is **intentional** by design._  
  No current workaround exists without risking further instability.
