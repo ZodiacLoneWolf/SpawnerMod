@@ -44,10 +44,10 @@ Version **1.5** introduces several functional improvements and usability fixes.
     * _This is **intentional** by design._  
  No current workaround exists without risking further instability.
 - **Missing Items in Menu**  
-    *Only includes items **provided by the game's built-in debug spawner**.  Manual spawn commands may work for missing items, but they are not supported in this release.
+    * Only includes items **provided by the game's built-in debug spawner**.  Manual spawn commands may work for missing items, but they are not supported in this release.
 - **Debug Menu Not Included**  
-    *The **parent debug menu** will not be released unless **official developer approval** is granted.  
- This decision is based on maintaining game and community health.
+    * The **parent debug menu** will not be released unless **official developer approval** is granted.
+    * This decision is based on maintaining game and community health.
 
 ## 🛠️ Fixes in V1.5
 
