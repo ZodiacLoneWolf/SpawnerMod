@@ -58,6 +58,3 @@ Version **1.5** introduces several functional improvements and usability fixes.
 ## Credits
 
 - Developed by **Zodiac**
-
-
-
